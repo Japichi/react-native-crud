@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+        "id": "1",
+        "employee_name": "Amelia Watson",
+        "employee_salary": "10000",
+        "employee_age": "20",
+        "profile_image": ""
+        },
+        {
+            "id": "2",
+            "employee_name": "Gawr Gura",
+            "employee_salary": "10000",
+            "employee_age": "9987",
+            "profile_image": ""
+            }
+        
+        ]
+    }
